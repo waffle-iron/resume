@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ericbaranowski/resume.png?label=ready&title=Ready)](https://waffle.io/ericbaranowski/resume)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ericbaranowski/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
